@@ -1,4 +1,4 @@
-
+#-------------------A simple clock made using tkinter
 import sys
 from tkinter import *
 import time
